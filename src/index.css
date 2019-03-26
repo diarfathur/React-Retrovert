@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Monserrat', sans-serif;
+  background: #f6eee3;
+  /* background: #d1cebe; */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.blue-btn {
+  background: #0e3746;
+  color: #f4f2ec;
+  border: none;
+}
+.blue-btn:hover {
+  background: #b9c5c5;    
+  color: #0e3746;
+  border: none;
+}
+
+.red-btn {
+  background: #be2623;
+  color: #f4f2ec;
+  border: none;
+}
+.red-btn:hover {
+  background: #b9c5c5;    
+  color: #0e3746;
+  border: none;
+}

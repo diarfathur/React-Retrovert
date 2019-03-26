@@ -1,0 +1,10 @@
+.jumbo-store {
+    background-image: url(../images/car-2.jpg);
+    background-size: cover;
+    color: white;
+}
+
+.jumbo-store h2 {
+    font-weight: 600;
+}
+
